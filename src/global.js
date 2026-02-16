@@ -1,5 +1,5 @@
 export const NavbarLogo = {
-  logo: "/logo.png",
+  logo: "/i.png",
   siteName: "Mirage Detailing",
 };
 
